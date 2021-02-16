@@ -22,3 +22,4 @@ var status = false;
 console.log (status);
 var pets = ['dogs', 'cats', 'chickens'];
 console.log (pets);
+
